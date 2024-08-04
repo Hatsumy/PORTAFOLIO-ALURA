@@ -94,7 +94,7 @@ body{
     border-radius: 8px;
     font-size: 1.5rem;
     font-weight: 600;
-    padding: 28px 0;
+    padding: 21.5px 0;
     text-decoration: none;
     color: var(--color-secundario);
     font-family: 'Montserrat', sans-serif;
@@ -141,6 +141,9 @@ body{
     .presentacion__contenido{
         width: auto;
     }
+
+    .presentacion__enlaces__link{
+        padding: 28px 0;
 }
 
     .presentacion__contenido{
