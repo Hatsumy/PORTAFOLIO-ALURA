@@ -130,11 +130,12 @@ body{
 
     .header__menu{
         justify-content: center;
+        gap: 5%;
     }
 
     .presentacion{
         flex-direction: column-reverse;
-        padding: 1%;
+        padding: 5%;
     }
 
     .presentacion__contenido{
